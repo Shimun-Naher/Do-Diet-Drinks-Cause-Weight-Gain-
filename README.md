@@ -1,6 +1,4 @@
-# Do-Diet-Drinks-Cause-Weight-Gain-
-
-Do Diet Drinks Cause Weight Gain? 
+# Do Diet Drinks Cause Weight Gain?
 
 A project by Shimun Naher
 
